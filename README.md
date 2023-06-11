@@ -6,7 +6,7 @@ Note : page.js is Home Page
 
 ### 1. Routes
 
-You can use '<Link></Link>' for routing. And also can use 'useRouter' from 'next/navigation' which is also awesome.
+You can use 'Link' from 'next/Link' for routing. And also can use 'useRouter' from 'next/navigation' which is so awesome.
 
 ### 1. Routes
 
