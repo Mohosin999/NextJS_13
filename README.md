@@ -1,18 +1,20 @@
 # Next_13
 
-## Topics Which Coverd In This Lecture :
+## Topics Which Coverd in This Lecture :
 
-Note : page.js is Home Page
+Note : 'page.js' is Home Page
 
 ### 1. Routes
 
 You can use 'Link' from 'next/Link' for routing. And also can use 'useRouter' from 'next/navigation' which is so awesome.
 
-### 1. Routes
+### 2. Layout
 
-### 1. Routes
+Layout wrap everything of out application. Here, you can add also 'keywords' for SEO, google fonts
 
-### 1. Routes
+### 3. Fetching Data from Server Side Component
+
+### 4. Add Loading Spinner
 
 # Project Default Notes Below :
 
