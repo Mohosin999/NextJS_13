@@ -1,3 +1,21 @@
+# Next_13
+
+## Topics Which Coverd In This Lecture :
+
+Note : page.js is Home Page
+
+### 1. Routes
+
+You can use <Link> for routing </Link>. And also can use 'useRouter' from 'next/navigation' which is also awesome.
+
+### 1. Routes
+
+### 1. Routes
+
+### 1. Routes
+
+# Project Default Notes Below :
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
